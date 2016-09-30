@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# Please open the firewall port 21 and 30000-30010
+
 # install vsftp
 yum install vsftpd db4-utils
 
